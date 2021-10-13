@@ -7,6 +7,7 @@
 body {
     font-family: 'Lato', sans-serif;
     scroll-behavior: smooth;
+    padding-bottom: 25px !important;
 }
 
 h1,
@@ -660,6 +661,7 @@ testimonial css
     justify-content: center;
     position: relative;
     z-index: 1;
+    margin-top: 140px;
 }
 
 .testimonial_single_slider:after {
@@ -1046,7 +1048,7 @@ footer css
 .footer__copyRight p {
     color: #9CA3AF;
     font-size: 12px;
-    padding-bottom: 15px;
+    padding-bottom: 0px;
     font-weight: 400;
     line-height: 15px;
 }
