@@ -661,7 +661,7 @@ testimonial css
     justify-content: center;
     position: relative;
     z-index: 1;
-    margin-top: 140px;
+    margin-top: 140px !important;
 }
 
 .testimonial_single_slider:after {
